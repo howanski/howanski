@@ -1,16 +1,27 @@
-## Hi there 👋
+![Banner](assets/images/banner.png)
 
-<!--
-**howanski/howanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+<div align="center">
+Hi there 👋
 
-Here are some ideas to get you started:
+My name is Maciej and I'm a Symfony developer with 6 years of commercial experience in this exact field.
+<br>
+Besides that I code 👨‍💻 a bit of <i>mostly useless</i> stuff just to kill time and automate <i>this and that</i>.
+<br>
+But... why?
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For fun!
+
+I had my first Atari at 13 YO, my first PC at 16 and internet acces at 20.
+
+I spent a lot of time on reverse-engineering the code I found inside OS or random CDs before I even could have some documentation or even coding tools. 
+
+Well, time goes by, toys are more complicated but I still have fun.
+
+Code is not always useful, but always entertaining.
+
+Sadly, never finished.
+
+
+*“Art is never finished, only abandoned.”* ~ Lenardo Da Vinci
